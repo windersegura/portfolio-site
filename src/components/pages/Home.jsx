@@ -2,6 +2,10 @@
 
 export const Home = () => {
   return (
-    <div>Home</div>
+    <>
+        <nav>navigation</nav>
+        <main>main</main>
+        <footer>footer</footer>
+    </>
   )
 }
